@@ -1,5 +1,5 @@
 {
-  "name": "@nikosfotiadis/react-native-pincode",
+  "name": "react-native-pincode",
   "version": "1.21.1",
   "description": "React native PIN code component",
   "main": "dist/index.js",
