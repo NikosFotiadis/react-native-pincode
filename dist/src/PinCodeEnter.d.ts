@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import { PinStatus } from './PinCode';
 import { PinResultStatus } from './utils';
 import * as React from 'react';
@@ -75,6 +74,7 @@ export declare type IProps = {
     touchIDDisabled: boolean;
     touchIDSentence: string;
     touchIDTitle?: string;
+    touchIDPasscodeFallback: boolean;
 };
 export declare type IState = {
     pinCodeStatus: PinResultStatus;
